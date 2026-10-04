@@ -6,6 +6,10 @@
 
 Seleziona un disco USB o una cartella: il programma raccoglie le informazioni sugli esportati, mostra le telecamere e gli intervalli disponibili e prepara i report.
 
+## Il programma
+
+![Milestone Export Analyzer 0.5.1 — schermata principale della demo](docs/images/milestone-export-analyzer.png)
+
 ## Scarica la demo
 
 **[Scarica la demo per Windows](https://github.com/maestrir/Milestone-Export-Analyzer/releases/tag/v0.5.1-demo)**
