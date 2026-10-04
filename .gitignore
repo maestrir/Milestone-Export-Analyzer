@@ -1,0 +1,12 @@
+# In questo repository si pubblicano documentazione e immagini.
+# Gli eseguibili demo vengono allegati alle Releases.
+*.exe
+*.dll
+*.pdb
+*.zip
+*.7z
+*.rar
+bin/
+obj/
+.vs/
+REPORT_*/
