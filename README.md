@@ -8,7 +8,7 @@ Seleziona un disco USB o una cartella: il programma raccoglie le informazioni su
 
 ## Il programma
 
-![Milestone Export Analyzer 0.5.1 — schermata principale della demo](docs/images/docs/releases/images/milestone-export-analyzer.png)
+![Milestone Export Analyzer 0.6.0 — schermata principale della demo](docs/images/docs/releases/images/milestone-export-analyzer2.png)
 
 *La schermata mostra la versione 0.5.1; la 0.6.0 introduce il tema navy e la colonna di protezione password.*
 
